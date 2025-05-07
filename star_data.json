@@ -1,0 +1,715 @@
+[
+  {
+    "airport_ident": "RJAA",
+    "star_ident": "SWAMPT",
+    "data": [
+      {
+        "name": "VIXEN",
+        "upper": null,
+        "lower": 11000
+      },
+      {
+        "name": "MIFFY",
+        "upper": null,
+        "lower": 9000
+      },
+      {
+        "name": "DREAM",
+        "upper": 10000,
+        "lower": 10000
+      },
+      {
+        "name": "MCGEE",
+        "upper": 10000,
+        "lower": 10000
+      },
+      {
+        "name": "AA455",
+        "upper": 10000,
+        "lower": 10000
+      },
+      {
+        "name": "AA456",
+        "upper": 10000,
+        "lower": 10000
+      },
+      {
+        "name": "AA457",
+        "upper": 10000,
+        "lower": 10000
+      },
+      {
+        "name": "HYDRA",
+        "upper": 10000,
+        "lower": 10000
+      },
+      {
+        "name": "PEAKS",
+        "upper": 6000,
+        "lower": 6000
+      }
+    ]
+  },
+  {
+    "airport_ident": "YSSY",
+    "star_ident": "BORE4A",
+    "data": [
+      {
+        "name": "BOREE",
+        "upper": null,
+        "lower": 9000
+      },
+      {
+        "name": "VASRA",
+        "upper": null,
+        "lower": 8000
+      },
+      {
+        "name": "BEROW",
+        "upper": 9000,
+        "lower": null
+      },
+      {
+        "name": "ZONKA",
+        "upper": null,
+        "lower": 6000
+      }
+    ]
+  },
+  {
+    "airport_ident": "GMMN",
+    "star_ident": "SADI2A",
+    "data": []
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "GODI1C",
+    "data": [
+      {
+        "name": "CHIPS",
+        "upper": 13000,
+        "lower": null
+      },
+      {
+        "name": "COLOR",
+        "upper": 11000,
+        "lower": null
+      },
+      {
+        "name": "COACH",
+        "upper": 8000,
+        "lower": 8000
+      },
+      {
+        "name": "EDDIE",
+        "upper": 8000,
+        "lower": 8000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "POLI1C",
+    "data": [
+      {
+        "name": "POLIX",
+        "upper": 15000,
+        "lower": 15000
+      },
+      {
+        "name": "CHIPS",
+        "upper": 13000,
+        "lower": null
+      },
+      {
+        "name": "COLOR",
+        "upper": 11000,
+        "lower": null
+      },
+      {
+        "name": "COACH",
+        "upper": 8000,
+        "lower": 8000
+      },
+      {
+        "name": "EDDIE",
+        "upper": 8000,
+        "lower": 8000
+      }
+    ]
+  },
+  {
+    "airport_ident": "PANC",
+    "star_ident": "NEELL7",
+    "data": [
+      {
+        "name": "HAMND",
+        "upper": null,
+        "lower": 25000
+      },
+      {
+        "name": "BTWEN",
+        "upper": null,
+        "lower": 21000
+      },
+      {
+        "name": "CKING",
+        "upper": null,
+        "lower": 16000
+      },
+      {
+        "name": "SNAAG",
+        "upper": null,
+        "lower": 10000
+      },
+      {
+        "name": "NEELL",
+        "upper": null,
+        "lower": 8000
+      },
+      {
+        "name": "SHNKN",
+        "upper": null,
+        "lower": 3000
+      },
+      {
+        "name": "ELIAS",
+        "upper": 2000,
+        "lower": 2000
+      }
+    ]
+  },
+  {
+    "airport_ident": "EHAM",
+    "star_ident": "NORK2A",
+    "data": [
+      {
+        "name": "NORKU",
+        "upper": 28000,
+        "lower": 20000
+      },
+      {
+        "name": "ARTIP",
+        "upper": 10000,
+        "lower": 7000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJCC",
+    "star_ident": "YUNEYS",
+    "data": [
+      {
+        "name": "URESY",
+        "upper": null,
+        "lower": 13000
+      },
+      {
+        "name": "GUFFI",
+        "upper": null,
+        "lower": 6000
+      },
+      {
+        "name": "YUNEY",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "XAC1A",
+    "data": [
+      {
+        "name": "ANZAC",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "WANDA",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "WEDGE",
+        "upper": 8000,
+        "lower": 8000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "AKSE1K",
+    "data": [
+      {
+        "name": "AKSEL",
+        "upper": 12000,
+        "lower": 12000
+      },
+      {
+        "name": "WALLY",
+        "upper": 12000,
+        "lower": 12000
+      },
+      {
+        "name": "WEDGE",
+        "upper": 8000,
+        "lower": 8000
+      },
+      {
+        "name": "UMUKI",
+        "upper": null,
+        "lower": 6000
+      },
+      {
+        "name": "KAIHO",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "AKSELL",
+    "data": [
+      {
+        "name": "SALLY",
+        "upper": 12000,
+        "lower": 12000
+      },
+      {
+        "name": "STOWE",
+        "upper": 12000,
+        "lower": 12000
+      },
+      {
+        "name": "SHAFT",
+        "upper": 9000,
+        "lower": 9000
+      },
+      {
+        "name": "SOPPY",
+        "upper": 7000,
+        "lower": null
+      },
+      {
+        "name": "SNARE",
+        "upper": 6000,
+        "lower": 6000
+      },
+      {
+        "name": "SANDY",
+        "upper": 4500,
+        "lower": 4500
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJOO",
+    "star_ident": "IKOMAE",
+    "data": [
+      {
+        "name": "MIRAI",
+        "upper": null,
+        "lower": 6000
+      },
+      {
+        "name": "IKOMA",
+        "upper": 3500,
+        "lower": 3500
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJOO",
+    "star_ident": "IKOMAN",
+    "data": [
+      {
+        "name": "ROKKO",
+        "upper": null,
+        "lower": 7000
+      },
+      {
+        "name": "KAMEO",
+        "upper": null,
+        "lower": 7000
+      },
+      {
+        "name": "IKOMA",
+        "upper": 3500,
+        "lower": 3500
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "XAC1K",
+    "data": [
+      {
+        "name": "ANZAC",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "WANDA",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "WEDGE",
+        "upper": 8000,
+        "lower": 8000
+      },
+      {
+        "name": "UMUKI",
+        "upper": null,
+        "lower": 6000
+      },
+      {
+        "name": "KAIHO",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "XAC2C",
+    "data": [
+      {
+        "name": "CIVIC",
+        "upper": 7000,
+        "lower": 7000
+      },
+      {
+        "name": "EPSON",
+        "upper": 7000,
+        "lower": 7000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJBB",
+    "star_ident": "DUBKAA",
+    "data": [
+      {
+        "name": "LIKPO",
+        "upper": null,
+        "lower": 4000
+      },
+      {
+        "name": "AVDOX",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJBB",
+    "star_ident": "DUBKAC",
+    "data": [
+      {
+        "name": "LIKPO",
+        "upper": null,
+        "lower": 4000
+      },
+      {
+        "name": "MAYAH",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJBB",
+    "star_ident": "ATMUGD",
+    "data": [
+      {
+        "name": "ASAMI",
+        "upper": null,
+        "lower": 6000
+      },
+      {
+        "name": "MAYAH",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJBB",
+    "star_ident": "IGLEVD",
+    "data": [
+      {
+        "name": "ASAMI",
+        "upper": null,
+        "lower": 6000
+      },
+      {
+        "name": "MAYAH",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJBB",
+    "star_ident": "CANDYD",
+    "data": [
+      {
+        "name": "MAYAH",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJBB",
+    "star_ident": "NIXOVD",
+    "data": [
+      {
+        "name": "OLTIG",
+        "upper": null,
+        "lower": 7000
+      },
+      {
+        "name": "ASAMI",
+        "upper": null,
+        "lower": 6000
+      },
+      {
+        "name": "MAYAH",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "KJFK",
+    "star_ident": "IGN1",
+    "data": [
+      {
+        "name": "LOLLY",
+        "upper": 20000,
+        "lower": 20000
+      },
+      {
+        "name": "LENDY",
+        "upper": 19000,
+        "lower": 19000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "XACL",
+    "data": [
+      {
+        "name": "SOLAR",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "STOCK",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "SHAFT",
+        "upper": 9000,
+        "lower": 9000
+      },
+      {
+        "name": "SOPPY",
+        "upper": 7000,
+        "lower": null
+      },
+      {
+        "name": "SNARE",
+        "upper": 6000,
+        "lower": 6000
+      },
+      {
+        "name": "SANDY",
+        "upper": 4500,
+        "lower": 4500
+      },
+      {
+        "name": "LABAN",
+        "upper": 4000,
+        "lower": 4000
+      },
+      {
+        "name": "LYCOS",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "XACL",
+    "data": [
+      {
+        "name": "SCOPE",
+        "upper": 10000,
+        "lower": 10000
+      },
+      {
+        "name": "NUMAN",
+        "upper": 9000,
+        "lower": 9000
+      },
+      {
+        "name": "NURSE",
+        "upper": 9000,
+        "lower": 9000
+      },
+      {
+        "name": "NEURO",
+        "upper": 6000,
+        "lower": 6000
+      },
+      {
+        "name": "NIGEL",
+        "upper": 6000,
+        "lower": 6000
+      },
+      {
+        "name": "RANGY",
+        "upper": 3000,
+        "lower": 3000
+      },
+      {
+        "name": "RONIE",
+        "upper": 3000,
+        "lower": 3000
+      }
+    ]
+  },
+  {
+    "airport_ident": "WSSS",
+    "star_ident": "TEBU1A",
+    "data": [
+      {
+        "name": "VAMPO",
+        "upper": null,
+        "lower": 10000
+      },
+      {
+        "name": "SAMKO",
+        "upper": null,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "KJFK",
+    "star_ident": "LENDY8",
+    "data": [
+      {
+        "name": "JENNO",
+        "upper": 23000,
+        "lower": 23000
+      },
+      {
+        "name": "LENDY",
+        "upper": 19000,
+        "lower": 19000
+      }
+    ]
+  },
+  {
+    "airport_ident": "OMDB",
+    "star_ident": "IMPE3C",
+    "data": [
+      {
+        "name": "IMPED",
+        "upper": 12000,
+        "lower": null
+      },
+      {
+        "name": "DB520",
+        "upper": 11000,
+        "lower": null
+      },
+      {
+        "name": "DB518",
+        "upper": 10000,
+        "lower": null
+      },
+      {
+        "name": "VUTON",
+        "upper": 8000,
+        "lower": null
+      },
+      {
+        "name": "DB514",
+        "upper": 6000,
+        "lower": null
+      }
+    ]
+  },
+  {
+    "airport_ident": "RKSI",
+    "star_ident": "CUN2M",
+    "data": [
+      {
+        "name": "BIGOB",
+        "upper": null,
+        "lower": 22000
+      },
+      {
+        "name": "BASEM",
+        "upper": null,
+        "lower": 20000
+      },
+      {
+        "name": "GUKDO",
+        "upper": null,
+        "lower": 16000
+      },
+      {
+        "name": "GE041",
+        "upper": null,
+        "lower": 10000
+      },
+      {
+        "name": "ENPIL",
+        "upper": 7000,
+        "lower": 7000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RKAA",
+    "star_ident": "SUPOKG",
+    "data": [
+      {
+        "name": "REGZA",
+        "upper": 8000,
+        "lower": 8000
+      },
+      {
+        "name": "SAFRA",
+        "upper": 8000,
+        "lower": 8000
+      },
+      {
+        "name": "CASIO",
+        "upper": 6000,
+        "lower": 6000
+      },
+      {
+        "name": "GE041",
+        "upper": null,
+        "lower": 10000
+      },
+      {
+        "name": "ENPIL",
+        "upper": 7000,
+        "lower": 7000
+      }
+    ]
+  }
+]
