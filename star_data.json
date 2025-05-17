@@ -547,47 +547,6 @@
     ]
   },
   {
-    "airport_ident": "RJTT",
-    "star_ident": "XACL",
-    "data": [
-      {
-        "name": "SCOPE",
-        "upper": 10000,
-        "lower": 10000
-      },
-      {
-        "name": "NUMAN",
-        "upper": 9000,
-        "lower": 9000
-      },
-      {
-        "name": "NURSE",
-        "upper": 9000,
-        "lower": 9000
-      },
-      {
-        "name": "NEURO",
-        "upper": 6000,
-        "lower": 6000
-      },
-      {
-        "name": "NIGEL",
-        "upper": 6000,
-        "lower": 6000
-      },
-      {
-        "name": "RANGY",
-        "upper": 3000,
-        "lower": 3000
-      },
-      {
-        "name": "RONIE",
-        "upper": 3000,
-        "lower": 3000
-      }
-    ]
-  },
-  {
     "airport_ident": "WSSS",
     "star_ident": "TEBU1A",
     "data": [
@@ -709,6 +668,32 @@
         "name": "ENPIL",
         "upper": 7000,
         "lower": 7000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RKTT",
+    "star_ident": "XAC1B",
+    "data": [
+      {
+        "name": "ANZAC",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "SOLAR",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "STOCK",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "SHAFT",
+        "upper": 8000,
+        "lower": 8000
       }
     ]
   }

@@ -28,11 +28,11 @@ def main():
     xml_data = response.text
     root = ET.fromstring(xml_data)
 
-    with open("/Users/yzhy/Downloads/SimbriefToRFS/xml_data.xml", "w", encoding="utf-8") as xml_file:
+    with open("/Users/yzhy/simbrief-to-rfs/xml_data.xml", "w", encoding="utf-8") as xml_file:
         xml_file.write(xml_data)
 
     # STARデータの読み込み
-    star_file_path = "/Users/yzhy/Downloads/SimbriefToRFS/star_data.json"
+    star_file_path = "/Users/yzhy/simbrief-to-rfs/star_data.json"
     try:
         with open(star_file_path, "r", encoding="utf-8") as sf:
             star_all = json.load(sf)
@@ -103,7 +103,7 @@ def main():
     if (aircraft == "B77L"):
         aircraft = "B7772L"
     if (aircraft == "B764"):
-        aircraft = "B7674"
+        aircraft = "B767R"
     fuel = root.findtext('.//fuel/plan_ramp')               # Ramp fuel
     payload = root.findtext('.//weights/payload')           # '10000' など
 
