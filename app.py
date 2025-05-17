@@ -102,6 +102,8 @@ def main():
         aircraft = "A320N"
     if (aircraft == "B77L"):
         aircraft = "B7772L"
+    if (aircraft == "B764"):
+        aircraft = "B7674"
     fuel = root.findtext('.//fuel/plan_ramp')               # Ramp fuel
     payload = root.findtext('.//weights/payload')           # '10000' など
 
