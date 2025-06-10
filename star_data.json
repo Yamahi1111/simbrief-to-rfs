@@ -696,5 +696,97 @@
         "lower": 8000
       }
     ]
+  },
+  {
+    "airport_ident": "KLAX",
+    "star_ident": "IRNMN2",
+    "data": [
+      {
+        "name": "CROWY",
+        "upper": 29000,
+        "lower": 26000
+      },
+      {
+        "name": "MUPTT",
+        "upper": 27000,
+        "lower": 23000
+      },
+      {
+        "name": "MDOTS",
+        "upper": 24000,
+        "lower": 20000
+      },
+      {
+        "name": "GRIPR",
+        "upper": 23000,
+        "lower": 19000
+      },
+      {
+        "name": "BIKNG",
+        "upper": 20000,
+        "lower": 16000
+      },
+      {
+        "name": "RUNNN",
+        "upper": 17000,
+        "lower": 14000
+      },
+      {
+        "name": "IRNMN",
+        "upper": 16000,
+        "lower": 12000
+      },
+      {
+        "name": "SYMON",
+        "upper": 13000,
+        "lower": 12000
+      },
+      {
+        "name": "BAYST",
+        "upper": null,
+        "lower": 9000
+      },
+      {
+        "name": "JUUSE",
+        "upper": 9000,
+        "lower": 8000
+      },
+      {
+        "name": "CLIFY",
+        "upper": 8000,
+        "lower": 7000
+      },
+      {
+        "name": "DAHJR",
+        "upper": 6000,
+        "lower": 6000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "XAC1N",
+    "data": [
+      {
+        "name": "ANZAC",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "SOLAR",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "STOCK",
+        "upper": 13000,
+        "lower": 13000
+      },
+      {
+        "name": "SHAFT",
+        "upper": 8000,
+        "lower": 8000
+      }
+    ]
   }
 ]
