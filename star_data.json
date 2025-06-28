@@ -788,5 +788,21 @@
         "lower": 8000
       }
     ]
+  },
+  {
+    "airport_ident": "KJFK",
+    "star_ident": "PARCH4",
+    "data": [
+      {
+        "name": "TRAIT",
+        "upper": 24000,
+        "lower": 24000
+      },
+      {
+        "name": "CCC",
+        "upper": 12000,
+        "lower": 12000
+      }
+    ]
   }
 ]
