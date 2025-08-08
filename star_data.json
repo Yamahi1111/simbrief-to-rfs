@@ -176,6 +176,36 @@
         "name": "ELIAS",
         "upper": 2000,
         "lower": 2000
+      },
+      {
+        "name": "AINKK",
+        "upper": 2000,
+        "lower": 2000
+      },
+      {
+        "name": "WNTER",
+        "upper": 12000,
+        "lower": 8000
+      },
+      {
+        "name": "DOGLG",
+        "upper": null,
+        "lower": 7000
+      },
+      {
+        "name": "TURRN",
+        "upper": 5000,
+        "lower": 5000
+      },
+      {
+        "name": "MITNN",
+        "upper": 5000,
+        "lower": 5000
+      },
+      {
+        "name": "GLDNN",
+        "upper": 5000,
+        "lower": 5000
       }
     ]
   },
@@ -802,6 +832,53 @@
         "name": "CCC",
         "upper": 12000,
         "lower": 12000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJGG",
+    "star_ident": "CHESSN",
+    "data": [
+      {
+        "name": "GG851",
+        "upper": null,
+        "lower": 5000
+      },
+      {
+        "name": "QUEST",
+        "upper": 4000,
+        "lower": 4000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJAA",
+    "star_ident": "SWAMPG",
+    "data": [
+      {
+        "name": "VIXEN",
+        "upper": null,
+        "lower": 11000
+      },
+      {
+        "name": "PLEIA",
+        "upper": 9000,
+        "lower": 9000
+      },
+      {
+        "name": "SPITZ",
+        "upper": 9000,
+        "lower": 9000
+      },
+      {
+        "name": "CASIO",
+        "upper": 6000,
+        "lower": 6000
+      },
+      {
+        "name": "GEMIN",
+        "upper": 4000,
+        "lower": 4000
       }
     ]
   }
