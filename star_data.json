@@ -881,5 +881,171 @@
         "lower": 4000
       }
     ]
+  },
+  {
+    "airport_ident": "ESSA",
+    "star_ident": "HMR5M",
+    "data": [
+      {
+        "name": "HMR",
+        "upper": 15000,
+        "lower": null
+      }
+    ]
+  },
+  {
+    "airport_ident": "LIMC",
+    "star_ident": "RIXU3E",
+    "data": [
+      {
+        "name": "MC685",
+        "upper": null,
+        "lower": 12000
+      },
+      {
+        "name": "EVGIR",
+        "upper": 11000,
+        "lower": 9000
+      },
+      {
+        "name": "MC768",
+        "upper": null,
+        "lower": 9000
+      },
+      {
+        "name": "MC761",
+        "upper": 6000,
+        "lower": 4000
+      },
+      {
+        "name": "MC756",
+        "upper": 6000,
+        "lower": 4000
+      },
+      {
+        "name": "ESITE",
+        "upper": 6000,
+        "lower": 4000
+      },
+      {
+        "name": "MC746",
+        "upper": 6000,
+        "lower": 4000
+      },
+      {
+        "name": "MC741",
+        "upper": 6000,
+        "lower": 4000
+      },
+      {
+        "name": "MC435",
+        "upper": 5000,
+        "lower": null
+      },
+      {
+        "name": "MC430",
+        "upper": null,
+        "lower": 4000
+      },
+      {
+        "name": "INLER",
+        "upper": null,
+        "lower": 4000
+      },
+      {
+        "name": "EKPOP",
+        "upper": 3000,
+        "lower": 3000
+      }
+    ]
+  },
+  {
+    "airport_ident": "LFPG",
+    "star_ident": "BIBA9P",
+    "data": [
+      {
+        "name": "BIBAX",
+        "upper": 24000,
+        "lower": null
+      },
+      {
+        "name": "MOBRO",
+        "upper": 7000,
+        "lower": 7000
+      }
+    ]
+  },
+  {
+    "airport_ident": "LFPG",
+    "star_ident": "BIBA9X",
+    "data": [
+      {
+        "name": "BIBAX",
+        "upper": null,
+        "lower": null
+      },
+      {
+        "name": "KOLIV",
+        "upper": 17000,
+        "lower": null
+      },
+      {
+        "name": "MOPAR",
+        "upper": 16000,
+        "lower": 15000
+      }
+    ]
+  },
+  {
+    "airport_ident": "RJTT",
+    "star_ident": "XACR",
+    "data": [
+      {
+        "name": "SCOPE",
+        "upper": 10000,
+        "lower": 10000
+      },
+      {
+        "name": "NUMAN",
+        "upper": 9000,
+        "lower": 9000
+      },
+      {
+        "name": "NURSE",
+        "upper": 9000,
+        "lower": 9000
+      },
+      {
+        "name": "NEURO",
+        "upper": 6000,
+        "lower": 6000
+      },
+      {
+        "name": "NIGEL",
+        "upper": 6000,
+        "lower": 6000
+      },
+      {
+        "name": "NATTY",
+        "upper": 3000,
+        "lower": 3000
+      }
+    ]
+  },
+  {
+    "airport_ident": "EGLL",
+    "star_ident": "HON2H",
+    "data": [
+      {
+        "name": "SOPIT",
+        "upper": 15000,
+        "lower": 15000
+      },
+      {
+        "name": "BNN",
+        "upper": 7000,
+        "lower": 7000
+      }
+    ]
   }
 ]
